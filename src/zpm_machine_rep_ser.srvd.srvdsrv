@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition Report'
+define service ZPM_MACHINE_REP_SER {
+  expose ZPM_MACHINE_FINAL_REPORT;
+}

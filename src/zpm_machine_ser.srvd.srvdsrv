@@ -1,0 +1,7 @@
+@EndUserText.label: 'MACHINE ITEM'
+define service ZPM_MACHINE_SER {
+  expose ZPM_MACHINE_CDS;
+  expose ZPM_MACHINE_H4;
+  expose ZPM_EQUIPMENT_F4;
+  expose ZPM_COSTCENTER;
+}

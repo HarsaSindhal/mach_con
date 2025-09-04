@@ -1,0 +1,35 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "Machine Item Consumption Report",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Machine Item Consumption Report"
+  },
+  "ui5AppDetails": {
+    "appId": "zmachineitemconsumptionreport"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_C1B7043E1B1F683D6638F8E450FB9D76CCDB2665_TM",
+    "semanticObject": "zmachineitemconsumptionrep",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_C1B7043E1B1F683D6638F8E450FB9D76CCDB2665_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Machine Item Consumption Report",
+        "subtitle": "PM"
+      }
+    }
+  ]
+}
